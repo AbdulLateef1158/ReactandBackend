@@ -14,6 +14,6 @@ Step 6:- Go to  studentfrontend folder throug terminal and type npm start
 
           This will start the development server
           
-          Now enter student name and student and adrress
+          Now enter student name and student adrress
           
           and click on submit button
